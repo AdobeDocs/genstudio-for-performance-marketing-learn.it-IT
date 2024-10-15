@@ -1,10 +1,10 @@
 ---
-title: Tutorial su GenStudio for Performance Marketing
+title: Tutorials di marketing GenStudio for Performance
 description: Visualizza esercitazioni video sulle funzionalità di GenStudio for Performance Marketing. Scopri come creare rapidamente risorse on-brand, generare varianti e ottimizzare le esperienze.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-source-git-commit: 16e7ce896d450633183232443eb8a44cf3bb4b2b
+source-git-commit: 6ed3e02f8c8f8d5992476a309631e0108de99a98
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 1%
