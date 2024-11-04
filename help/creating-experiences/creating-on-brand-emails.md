@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Creare e-mail di marketing sul marchio
 
-Spiegazione dettagliata della creazione di e-mail di marketing nel brand con l&#39;Adobe [!DNL GenStudio for Performance Marketing].
+Spiegazione dettagliata della creazione di e-mail di marketing nel brand con Adobe [!DNL GenStudio for Performance Marketing].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
