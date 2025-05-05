@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Segui le istruzioni dettagliate sul prodotto per creare un annuncio Meta in [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435086/?learn=on&captions=ita)

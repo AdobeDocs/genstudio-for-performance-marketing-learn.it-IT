@@ -20,4 +20,4 @@ ht-degree: 83%
 
 Questo video illustra in modo dettagliato come inserire le linee guida per il marchio della tua azienda, i prodotti e i principali utenti tipo del marketing in GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439379/?learn=on&enablevpops&captions=ita)
