@@ -5,18 +5,20 @@ type: Tutorial
 topic: Content Supply Chain
 feature-set: GenStudio for Performance Marketing
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing-learn.it-IT
+git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing-learn.en
+landing-page-name: genstudio-for-performance-marketing
+landing-page-breadcrumb-title: GenStudio
 index: true
-source-git-commit: 609cd9e1a85c916270009ac12f2520d3ebc2d6df
+source-git-commit: 733b1be3d4ff8ec93ec4f2e8a1cc89ddbb1b8646
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 98%
+source-wordcount: '72'
+ht-degree: 0%
 
 ---
 
 
 # Metadati per uso interno
 
-Il file metadata.md include metadati a livello di repository che passano ai file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, effettua questa operazione in qualsiasi file TOC.md.
+Il file metadata.md include metadati a livello di repository che passano attraverso i file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, effettua questa operazione in qualsiasi file TOC.md.
 
-Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, consulta [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=it).
+Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, vedere [metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html).
