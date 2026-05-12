@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Spiegazione dettagliata della creazione di e-mail di marketing nel brand con Adobe [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435075/?captions=ita&learn=on)
