@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: GenStudio for Performance Marketing
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: "GenStudio for Performance Marketing"
 usetq: true
 type: Tutorial
 topic: Content Supply Chain
@@ -14,14 +15,12 @@ landing-page-breadcrumb-title: GenStudio
 index: true
 source-git-commit: b770100e42684c7f0dbb1527bdb88eee0e37ce71
 workflow-type: tm+mt
-source-wordcount: 72
-ht-degree: 72%
-
+source-wordcount: '64'
+ht-degree: 100%
 ---
-
 
 # Metadati per uso interno
 
 Il file metadata.md include metadati a livello di archivio che vengono passati ai file TOC.md della guida utente nell’archivio. Se desideri modificare il contenuto del file metadata.md per qualsiasi Guida utente, effettua questa operazione in qualsiasi file TOC.md.
 
-Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, consulta [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html).
+Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, consulta [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=it).
